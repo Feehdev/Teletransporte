@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MockGps"
+rootProject.name = "Teletransporte"
 include(":app")
- 

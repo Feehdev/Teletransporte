@@ -13,11 +13,11 @@ if (propsFile.exists()) {
 }
 
 android {
-    namespace = "com.lilstiffy.mockgps"
+    namespace = "com.lilstiffy.teletransporte"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.lilstiffy.mockgps"
+        applicationId = "com.lilstiffy.teletransporte"
         minSdk = 28
         targetSdk = 34
         versionCode = 5
